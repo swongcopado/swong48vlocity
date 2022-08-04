@@ -1,0 +1,42 @@
+{
+    "AuthorName": "swong",
+    "ClonedFromOmniUiCardKey": "",
+    "DataSourceConfig": {
+        "contextVariables": [
+            {
+                "id": 2,
+                "name": "recordId",
+                "val": ""
+            }
+        ],
+        "orderBy": {
+            "isReverse": false,
+            "name": ""
+        },
+        "type": "IntegrationProcedures",
+        "value": {
+            "dsDelay": "",
+            "inputMap": {
+                "accountId": "{recordId}"
+            },
+            "ipMethod": "team_getAccountContactDetails",
+            "resultVar": "[\"Account\"]",
+            "vlocityAsync": false
+        }
+    },
+    "Description": "This is my first Flexcard.",
+    "IsTrackingEnabled": false,
+    "Name": "swongFirstFlexcard",
+    "Namespace": "",
+    "OmniUiCardKey": "swongFirstFlexcard/swong/1.0",
+    "OmniUiCardType": "Parent",
+    "OverrideKey": "",
+    "PropertySetConfig": "swongFirstFlexcard.json",
+    "SampleDataSourceResponse": "{\"Contact\":[{\"ContactEmail\":\"pholder@placeholderinc.com\",\"ContactId\":\"0033i0000029WovZZZ\",\"ContactFirstName\":\"Place\",\"ContactPhone\":\"(123) 123-5678\",\"ContactLastName\":\"Holder\",\"ContactTitle\":\"CEO\"},{\"ContactEmail\":\"aholder@placeholderinc.com\",\"ContactId\":\"0033i0000029Wp0ZZZ\",\"ContactFirstName\":\"Ana\",\"ContactPhone\":\"(123) 123-6789\",\"ContactLastName\":\"Holder\",\"ContactTitle\":\"SVP\"}],\"Account\":{\"AccountId\":\"0013i0000030LDyZZZ\",\"AccountName\":\"PlaceHolder Inc\",\"AccountPhone\":\"(123) 123-4567\",\"AccountPostalCode\":12345,\"AccountPriContact\":\"Ana Holder\",\"AccountWebsite\":\"www.placeholderinc.com\"}}",
+    "StylingConfiguration": "",
+    "UniqueName": "",
+    "VersionNumber": 1,
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniUiCard",
+    "VlocityRecordSourceKey": "OmniUiCard/swongFirstFlexcard"
+}
