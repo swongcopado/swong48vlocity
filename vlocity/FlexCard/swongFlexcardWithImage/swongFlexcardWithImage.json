@@ -1,0 +1,142 @@
+{
+    "dataSource": {
+        "contextVariables": [
+        ],
+        "orderBy": {
+            "isReverse": false,
+            "name": ""
+        },
+        "type": "Query",
+        "value": {
+            "dsDelay": "",
+            "query": "select name,phone from ACCOUNT",
+            "resultVar": ""
+        }
+    },
+    "enableLwc": true,
+    "isFlex": true,
+    "lwc": {
+        "DeveloperName": "cfSwongFlexcardWithImage_1_swong",
+        "Id": "0Rb5i000000O0DTCA0",
+        "ManageableState": "unmanaged",
+        "MasterLabel": "cfSwongFlexcardWithImage_1_swong",
+        "NamespacePrefix": "c"
+    },
+    "selectableMode": "Multi",
+    "states": [
+        {
+            "actions": [
+            ],
+            "childCards": [
+            ],
+            "components": {
+                "layer-0": {
+                    "children": [
+                        {
+                            "class": "slds-col ",
+                            "element": "outputField",
+                            "elementLabel": "Text-0",
+                            "name": "Text",
+                            "property": {
+                                "card": "{card}",
+                                "mergeField": "%3Cdiv%3EImage%20in%20Flexcard%20below.&nbsp;%3C/div%3E%0A%3Cdiv%3EFilename%20is%20SCLogo.png%3C/div%3E",
+                                "record": "{record}"
+                            },
+                            "size": {
+                                "default": "12",
+                                "isResponsive": false
+                            },
+                            "stateIndex": 0,
+                            "styleObject": {
+                                "sizeClass": "slds-size_12-of-12"
+                            },
+                            "type": "text"
+                        },
+                        {
+                            "class": "slds-col ",
+                            "element": "flexImg",
+                            "elementLabel": "Image-1",
+                            "name": "Image",
+                            "property": {
+                                "card": "{card}",
+                                "extraclass": "slds-align_absolute-center",
+                                "record": "{record}",
+                                "size": "",
+                                "stateImg": {
+                                    "alternativeText": "Image description",
+                                    "document": {
+                                        "Id": "0685i000007Axd6AAC",
+                                        "attachmentType": "ContentVersion",
+                                        "label": "SCLogo (Version:1)",
+                                        "title": "SCLogo",
+                                        "value": "/sfc/servlet.shepherd/version/download/0685i000007Axd6AAC"
+                                    },
+                                    "imgsrc": "/sfc/servlet.shepherd/version/download/0685i000007Axd6AAC"
+                                }
+                            },
+                            "size": {
+                                "default": "12",
+                                "isResponsive": false
+                            },
+                            "stateIndex": 0,
+                            "styleObject": {
+                                "sizeClass": "slds-size_12-of-12"
+                            },
+                            "type": "element"
+                        }
+                    ]
+                }
+            },
+            "conditions": {
+                "group": [
+                ],
+                "id": "state-condition-object",
+                "isParent": true
+            },
+            "definedActions": {
+                "actions": [
+                ]
+            },
+            "documents": [
+                {
+                    "Id": "0685i000007Axd6AAC",
+                    "developerName": "SCLogo",
+                    "type": "ContentVersion"
+                }
+            ],
+            "fields": [
+            ],
+            "isSmartAction": false,
+            "name": "Active",
+            "omniscripts": [
+            ],
+            "smartAction": {
+            },
+            "styleObject": {
+                "class": "slds-card slds-p-around_x-small slds-m-bottom_x-small",
+                "container": {
+                    "class": "slds-card"
+                },
+                "margin": [
+                    {
+                        "size": "x-small",
+                        "type": "bottom"
+                    }
+                ],
+                "padding": [
+                    {
+                        "size": "x-small",
+                        "type": "around"
+                    }
+                ],
+                "size": {
+                    "default": "12",
+                    "isResponsive": false
+                },
+                "sizeClass": "slds-size_12-of-12"
+            }
+        }
+    ],
+    "theme": "slds",
+    "title": "swongFlexcardWithImage"
+}
