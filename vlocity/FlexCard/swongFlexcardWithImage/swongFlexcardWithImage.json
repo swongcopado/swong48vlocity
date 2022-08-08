@@ -55,7 +55,7 @@
                         {
                             "class": "slds-col ",
                             "element": "flexImg",
-                            "elementLabel": "Image-1",
+                            "elementLabel": "Image-2",
                             "name": "Image",
                             "property": {
                                 "card": "{card}",
@@ -65,13 +65,13 @@
                                 "stateImg": {
                                     "alternativeText": "Image description",
                                     "document": {
-                                        "Id": "0685i000007Axd6AAC",
+                                        "Id": "0685i000007AxvZAAS",
                                         "attachmentType": "ContentVersion",
-                                        "label": "SCLogo (Version:1)",
-                                        "title": "SCLogo",
-                                        "value": "/sfc/servlet.shepherd/version/download/0685i000007Axd6AAC"
+                                        "label": "No-Limits-Kickoff_Zoom-Background_03 (Version:1)",
+                                        "title": "No-Limits-Kickoff_Zoom-Background_03",
+                                        "value": "/sfc/servlet.shepherd/version/download/0685i000007AxvZAAS"
                                     },
-                                    "imgsrc": "/sfc/servlet.shepherd/version/download/0685i000007Axd6AAC"
+                                    "imgsrc": "/sfc/servlet.shepherd/version/download/0685i000007AxvZAAS"
                                 }
                             },
                             "size": {
@@ -99,8 +99,8 @@
             },
             "documents": [
                 {
-                    "Id": "0685i000007Axd6AAC",
-                    "developerName": "SCLogo",
+                    "Id": "0685i000007AxvZAAS",
+                    "developerName": "No-Limits-Kickoff_Zoom-Background_03",
                     "type": "ContentVersion"
                 }
             ],
