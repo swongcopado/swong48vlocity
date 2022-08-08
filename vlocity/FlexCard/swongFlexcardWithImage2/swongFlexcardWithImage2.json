@@ -10,6 +10,13 @@
     },
     "enableLwc": true,
     "isFlex": true,
+    "lwc": {
+        "DeveloperName": "cfSwongFlexcardWithImage2_2_Copado",
+        "Id": "0Rb5i000000zr8qCAA",
+        "ManageableState": "unmanaged",
+        "MasterLabel": "cfSwongFlexcardWithImage2_2_Copado",
+        "NamespacePrefix": "c"
+    },
     "selectableMode": "Multi",
     "states": [
         {
@@ -31,15 +38,15 @@
                                 "record": "{record}",
                                 "size": "",
                                 "stateImg": {
-                                    "alternativeText": "Image description",
+                                    "alternativeText": "Copado Blue Background with Lume",
                                     "document": {
-                                        "Id": "0685i000006tOuOAAU",
+                                        "Id": "0685i000006WOOwAAO",
                                         "attachmentType": "ContentVersion",
-                                        "label": "weatherbannerActive (Version:1)",
-                                        "title": "weatherbannerActive",
-                                        "value": "/sfc/servlet.shepherd/version/download/0685i000006tOuOAAU"
+                                        "label": "No-Limits-Kickoff_Zoom-Background_03 (Version:1)",
+                                        "title": "No-Limits-Kickoff_Zoom-Background_03",
+                                        "value": "/sfc/servlet.shepherd/version/download/0685i000006WOOwAAO"
                                     },
-                                    "imgsrc": "/sfc/servlet.shepherd/version/download/0685i000006tOuOAAU"
+                                    "imgsrc": "/sfc/servlet.shepherd/version/download/0685i000006WOOwAAO"
                                 }
                             },
                             "size": {
@@ -67,8 +74,8 @@
             },
             "documents": [
                 {
-                    "Id": "0685i000006tOuOAAU",
-                    "developerName": "weatherbannerActive",
+                    "Id": "0685i000006WOOwAAO",
+                    "developerName": "No-Limits-Kickoff_Zoom-Background_03",
                     "type": "ContentVersion"
                 }
             ],
