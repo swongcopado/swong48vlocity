@@ -33,13 +33,13 @@
                                 "stateImg": {
                                     "alternativeText": "Image description",
                                     "document": {
-                                        "Id": "0685i000006WOBZAA4",
+                                        "Id": "0685i000006tOuOAAU",
                                         "attachmentType": "ContentVersion",
-                                        "label": "Zoom-Background_Office_v1_reversed-01 (Version:1)",
-                                        "title": "Zoom-Background_Office_v1_reversed-01",
-                                        "value": "/sfc/servlet.shepherd/version/download/0685i000006WOBZAA4"
+                                        "label": "weatherbannerActive (Version:1)",
+                                        "title": "weatherbannerActive",
+                                        "value": "/sfc/servlet.shepherd/version/download/0685i000006tOuOAAU"
                                     },
-                                    "imgsrc": "/sfc/servlet.shepherd/version/download/0685i000006WOBZAA4"
+                                    "imgsrc": "/sfc/servlet.shepherd/version/download/0685i000006tOuOAAU"
                                 }
                             },
                             "size": {
@@ -67,8 +67,8 @@
             },
             "documents": [
                 {
-                    "Id": "0685i000006WOBZAA4",
-                    "developerName": "Zoom-Background_Office_v1_reversed-01",
+                    "Id": "0685i000006tOuOAAU",
+                    "developerName": "weatherbannerActive",
                     "type": "ContentVersion"
                 }
             ],
