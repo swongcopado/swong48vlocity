@@ -16,10 +16,10 @@
     "enableLwc": true,
     "isFlex": true,
     "lwc": {
-        "DeveloperName": "cfSwongFlexcardWithImage_1_swong",
-        "Id": "0Rb5i000000O0DTCA0",
+        "DeveloperName": "cfSwongFlexcardWithImage_2_swong",
+        "Id": "0Rb5i000000O0fkCAC",
         "ManageableState": "unmanaged",
-        "MasterLabel": "cfSwongFlexcardWithImage_1_swong",
+        "MasterLabel": "cfSwongFlexcardWithImage_2_swong",
         "NamespacePrefix": "c"
     },
     "selectableMode": "Multi",
@@ -39,7 +39,7 @@
                             "name": "Text",
                             "property": {
                                 "card": "{card}",
-                                "mergeField": "%3Cdiv%3EImage%20in%20Flexcard%20below.&nbsp;%3C/div%3E%0A%3Cdiv%3EFilename%20is%20SCLogo.png%3C/div%3E",
+                                "mergeField": "%3Cdiv%3EImage%20in%20Flexcard%20below.%3C/div%3E",
                                 "record": "{record}"
                             },
                             "size": {
@@ -55,7 +55,7 @@
                         {
                             "class": "slds-col ",
                             "element": "flexImg",
-                            "elementLabel": "Image-2",
+                            "elementLabel": "Image-1",
                             "name": "Image",
                             "property": {
                                 "card": "{card}",
@@ -63,15 +63,15 @@
                                 "record": "{record}",
                                 "size": "",
                                 "stateImg": {
-                                    "alternativeText": "Image description",
+                                    "alternativeText": "Badge Art picture",
                                     "document": {
-                                        "Id": "0685i000007AxvZAAS",
+                                        "Id": "0685i000006tQ6KAAU",
                                         "attachmentType": "ContentVersion",
-                                        "label": "No-Limits-Kickoff_Zoom-Background_03 (Version:1)",
-                                        "title": "No-Limits-Kickoff_Zoom-Background_03",
-                                        "value": "/sfc/servlet.shepherd/version/download/0685i000007AxvZAAS"
+                                        "label": "Badge_art (Version:1)",
+                                        "title": "Badge_art",
+                                        "value": "/sfc/servlet.shepherd/version/download/0685i000006tQ6KAAU"
                                     },
-                                    "imgsrc": "/sfc/servlet.shepherd/version/download/0685i000007AxvZAAS"
+                                    "imgsrc": "/sfc/servlet.shepherd/version/download/0685i000006tQ6KAAU"
                                 }
                             },
                             "size": {
@@ -99,8 +99,8 @@
             },
             "documents": [
                 {
-                    "Id": "0685i000007AxvZAAS",
-                    "developerName": "No-Limits-Kickoff_Zoom-Background_03",
+                    "Id": "0685i000006tQ6KAAU",
+                    "developerName": "Badge_art",
                     "type": "ContentVersion"
                 }
             ],
