@@ -1,0 +1,28 @@
+{
+    "AuthorName": "Copado",
+    "ClonedFromOmniUiCardKey": "",
+    "DataSourceConfig": {
+        "contextVariables": [
+        ],
+        "orderBy": {
+        },
+        "type": null,
+        "value": {
+        }
+    },
+    "Description": "",
+    "IsTrackingEnabled": false,
+    "Name": "swongFlexcardWithImage2",
+    "Namespace": "",
+    "OmniUiCardKey": "swongFlexcardWithImage2/Copado/2.0",
+    "OmniUiCardType": "Parent",
+    "OverrideKey": "",
+    "PropertySetConfig": "swongFlexcardWithImage2.json",
+    "SampleDataSourceResponse": "",
+    "StylingConfiguration": "",
+    "UniqueName": "",
+    "VersionNumber": 2,
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniUiCard",
+    "VlocityRecordSourceKey": "OmniUiCard/swongFlexcardWithImage2"
+}
