@@ -1,0 +1,33 @@
+{
+    "AuthorName": "swong",
+    "ClonedFromOmniUiCardKey": "",
+    "DataSourceConfig": {
+        "contextVariables": [
+        ],
+        "orderBy": {
+            "isReverse": false,
+            "name": ""
+        },
+        "type": "Query",
+        "value": {
+            "dsDelay": "",
+            "query": "select name,phone from ACCOUNT",
+            "resultVar": ""
+        }
+    },
+    "Description": "",
+    "IsTrackingEnabled": false,
+    "Name": "swongFlexcardWithImage",
+    "Namespace": "",
+    "OmniUiCardKey": "swongFlexcardWithImage/swong/1.0",
+    "OmniUiCardType": "Parent",
+    "OverrideKey": "",
+    "PropertySetConfig": "swongFlexcardWithImage.json",
+    "SampleDataSourceResponse": "[{\"attributes\":{\"type\":\"Account\",\"url\":\"/services/data/v55.0/sobjects/Account/0015i00000MLQkNAAX\"},\"Name\":\"Acme\",\"Phone\":\"(212) 154-6450\",\"Id\":\"0015i00000MLQkNAAX\"},{\"attributes\":{\"type\":\"Account\",\"url\":\"/services/data/v55.0/sobjects/Account/0015i00000MLQkOAAX\"},\"Name\":\"Edge Communications\",\"Phone\":\"(512) 757-6000\",\"Id\":\"0015i00000MLQkOAAX\"},{\"attributes\":{\"type\":\"Account\",\"url\":\"/services/data/v55.0/sobjects/Account/0015i00000MLQkPAAX\"},\"Name\":\"Burlington Textiles Corp of America\",\"Phone\":\"(336) 222-7000\",\"Id\":\"0015i00000MLQkPAAX\"},{\"attributes\":{\"type\":\"Account\",\"url\":\"/services/data/v55.0/sobjects/Account/0015i00000MLQkQAAX\"},\"Name\":\"Pyramid Construction Inc.\",\"Phone\":\"(014) 427-4427\",\"Id\":\"0015i00000MLQkQAAX\"},{\"attributes\":{\"type\":\"Account\",\"url\":\"/services/data/v55.0/sobjects/Account/0015i00000MLQkRAAX\"},\"Name\":\"Dickenson plc\",\"Phone\":\"(785) 241-6200\",\"Id\":\"0015i00000MLQkRAAX\"},{\"attributes\":{\"type\":\"Account\",\"url\":\"/services/data/v55.0/sobjects/Account/0015i00000MLQkSAAX\"},\"Name\":\"Grand Hotels & Resorts Ltd\",\"Phone\":\"(312) 596-1000\",\"Id\":\"0015i00000MLQkSAAX\"},{\"attributes\":{\"type\":\"Account\",\"url\":\"/services/data/v55.0/sobjects/Account/0015i00000MLQkTAAX\"},\"Name\":\"United Oil & Gas Corp.\",\"Phone\":\"(212) 842-5500\",\"Id\":\"0015i00000MLQkTAAX\"},{\"attributes\":{\"type\":\"Account\",\"url\":\"/services/data/v55.0/sobjects/Account/0015i00000MLQkUAAX\"},\"Name\":\"Express Logistics and Transport\",\"Phone\":\"(503) 421-7800\",\"Id\":\"0015i00000MLQkUAAX\"},{\"attributes\":{\"type\":\"Account\",\"url\":\"/services/data/v55.0/sobjects/Account/0015i00000MLQkVAAX\"},\"Name\":\"University of Arizona\",\"Phone\":\"(520) 773-9050\",\"Id\":\"0015i00000MLQkVAAX\"},{\"attributes\":{\"type\":\"Account\",\"url\":\"/services/data/v55.0/sobjects/Account/0015i00000MLQkWAAX\"},\"Name\":\"United Oil & Gas, UK\",\"Phone\":\"+44 191 4956203\",\"Id\":\"0015i00000MLQkWAAX\"},{\"attributes\":{\"type\":\"Account\",\"url\":\"/services/data/v55.0/sobjects/Account/0015i00000MLQkXAAX\"},\"Name\":\"United Oil & Gas, Singapore\",\"Phone\":\"(650) 450-8810\",\"Id\":\"0015i00000MLQkXAAX\"},{\"attributes\":{\"type\":\"Account\",\"url\":\"/services/data/v55.0/sobjects/Account/0015i00000MLQkYAAX\"},\"Name\":\"GenePoint\",\"Phone\":\"(650) 867-3450\",\"Id\":\"0015i00000MLQkYAAX\"},{\"attributes\":{\"type\":\"Account\",\"url\":\"/services/data/v55.0/sobjects/Account/0015i00000MLQkZAAX\"},\"Name\":\"sForce\",\"Phone\":\"(415) 901-7000\",\"Id\":\"0015i00000MLQkZAAX\"},{\"attributes\":{\"type\":\"Account\",\"url\":\"/services/data/v55.0/sobjects/Account/0015i00000MLQkaAAH\"},\"Name\":\"Sample Account for Entitlements\",\"Id\":\"0015i00000MLQkaAAH\"}]",
+    "StylingConfiguration": "",
+    "UniqueName": "",
+    "VersionNumber": 1,
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniUiCard",
+    "VlocityRecordSourceKey": "OmniUiCard/swongFlexcardWithImage"
+}
