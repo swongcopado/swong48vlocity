@@ -1,0 +1,33 @@
+{
+    "AuthorName": "swong",
+    "ClonedFromOmniUiCardKey": "",
+    "DataSourceConfig": {
+        "contextVariables": [
+        ],
+        "orderBy": {
+            "isReverse": false,
+            "name": ""
+        },
+        "type": "Query",
+        "value": {
+            "dsDelay": "",
+            "query": "SELECT NAME, PHONE from ACCOUNT LIMIT 1",
+            "resultVar": ""
+        }
+    },
+    "Description": "",
+    "IsTrackingEnabled": false,
+    "Name": "SWFlexCardWithImage4",
+    "Namespace": "",
+    "OmniUiCardKey": "SWFlexCardWithImage4/swong/1.0",
+    "OmniUiCardType": "Parent",
+    "OverrideKey": "",
+    "PropertySetConfig": "SWFlexCardWithImage4.json",
+    "SampleDataSourceResponse": "[{\"attributes\":{\"type\":\"Account\",\"url\":\"/services/data/v55.0/sobjects/Account/0015i00000MLOf9AAH\"},\"Name\":\"Acme\",\"Phone\":\"(212) 154-6450\",\"Id\":\"0015i00000MLOf9AAH\"}]",
+    "StylingConfiguration": "",
+    "UniqueName": "",
+    "VersionNumber": 1,
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniUiCard",
+    "VlocityRecordSourceKey": "OmniUiCard/SWFlexCardWithImage4"
+}
