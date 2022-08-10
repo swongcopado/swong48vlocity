@@ -1,0 +1,19 @@
+{
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": false,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": true,
+    "Language": "English",
+    "Name": "userStory106",
+    "OmniProcessElement": "test_userStory106_English_Element_Step1.json",
+    "OmniProcessType": "OmniScript",
+    "PropertySetConfig": "test_userStory106_English_PropertySetConfig.json",
+    "SubType": "userStory106",
+    "Type": "test",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/test/userStory106/English",
+    "WebComponentKey": "dd3ed272-0fb0-3c6c-8e4e-e8892bfe10a7"
+}
