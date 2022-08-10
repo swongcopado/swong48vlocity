@@ -1,0 +1,22 @@
+{
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": false,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": true,
+    "Language": "English",
+    "Name": "documentUpload",
+    "OmniProcessElement": [
+        "test_test_English_Element_Step1.json",
+        "test_test_English_Element_TextBlock1.json"
+    ],
+    "OmniProcessType": "OmniScript",
+    "PropertySetConfig": "test_test_English_PropertySetConfig.json",
+    "SubType": "test",
+    "Type": "test",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/test/test/English",
+    "WebComponentKey": "24455f08-0748-86ae-60a3-479c21d405b3"
+}

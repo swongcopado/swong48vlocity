@@ -1,0 +1,117 @@
+{
+    "dataSource": {
+        "contextVariables": [
+        ],
+        "orderBy": {
+        },
+        "type": null,
+        "value": {
+        }
+    },
+    "enableLwc": true,
+    "isFlex": true,
+    "lwc": {
+        "DeveloperName": "cfSwongFlexcardWithImage2_2_Copado",
+        "Id": "0Rb5i000000zr8qCAA",
+        "ManageableState": "unmanaged",
+        "MasterLabel": "cfSwongFlexcardWithImage2_2_Copado",
+        "NamespacePrefix": "c"
+    },
+    "selectableMode": "Multi",
+    "states": [
+        {
+            "actions": [
+            ],
+            "childCards": [
+            ],
+            "components": {
+                "layer-0": {
+                    "children": [
+                        {
+                            "class": "slds-col ",
+                            "element": "flexImg",
+                            "elementLabel": "Image-0",
+                            "name": "Image",
+                            "property": {
+                                "card": "{card}",
+                                "extraclass": "slds-align_absolute-center",
+                                "record": "{record}",
+                                "size": "",
+                                "stateImg": {
+                                    "alternativeText": "Copado Blue Background with Lume",
+                                    "document": {
+                                        "Id": "0685i000006WOOwAAO",
+                                        "attachmentType": "ContentVersion",
+                                        "label": "No-Limits-Kickoff_Zoom-Background_03 (Version:1)",
+                                        "title": "No-Limits-Kickoff_Zoom-Background_03",
+                                        "value": "/sfc/servlet.shepherd/version/download/0685i000006WOOwAAO"
+                                    },
+                                    "imgsrc": "/sfc/servlet.shepherd/version/download/0685i000006WOOwAAO"
+                                }
+                            },
+                            "size": {
+                                "default": "12",
+                                "isResponsive": false
+                            },
+                            "stateIndex": 0,
+                            "styleObject": {
+                                "sizeClass": "slds-size_12-of-12"
+                            },
+                            "type": "element"
+                        }
+                    ]
+                }
+            },
+            "conditions": {
+                "group": [
+                ],
+                "id": "state-condition-object",
+                "isParent": true
+            },
+            "definedActions": {
+                "actions": [
+                ]
+            },
+            "documents": [
+                {
+                    "Id": "0685i000006WOOwAAO",
+                    "developerName": "No-Limits-Kickoff_Zoom-Background_03",
+                    "type": "ContentVersion"
+                }
+            ],
+            "fields": [
+            ],
+            "isSmartAction": false,
+            "name": "Active",
+            "omniscripts": [
+            ],
+            "smartAction": {
+            },
+            "styleObject": {
+                "class": "slds-card slds-p-around_x-small slds-m-bottom_x-small",
+                "container": {
+                    "class": "slds-card"
+                },
+                "margin": [
+                    {
+                        "size": "x-small",
+                        "type": "bottom"
+                    }
+                ],
+                "padding": [
+                    {
+                        "size": "x-small",
+                        "type": "around"
+                    }
+                ],
+                "size": {
+                    "default": "12",
+                    "isResponsive": false
+                },
+                "sizeClass": "slds-size_12-of-12"
+            }
+        }
+    ],
+    "theme": "slds",
+    "title": "swongFlexcardWithImage2"
+}
