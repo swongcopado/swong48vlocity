@@ -1,0 +1,33 @@
+{
+    "AuthorName": "Steven",
+    "ClonedFromOmniUiCardKey": "",
+    "DataSourceConfig": {
+        "contextVariables": [
+        ],
+        "orderBy": {
+            "isReverse": false,
+            "name": ""
+        },
+        "type": "IntegrationProcedures",
+        "value": {
+            "dsDelay": "",
+            "ipMethod": "team_getAccountDetails",
+            "vlocityAsync": false
+        }
+    },
+    "Description": "This is a demo flexcard",
+    "IsTrackingEnabled": false,
+    "Name": "DemoFlexCard",
+    "Namespace": "",
+    "OmniUiCardKey": "DemoFlexCard/Steven/1.0",
+    "OmniUiCardType": "Parent",
+    "OverrideKey": "",
+    "PropertySetConfig": "DemoFlexCard.json",
+    "SampleDataSourceResponse": "",
+    "StylingConfiguration": "",
+    "UniqueName": "",
+    "VersionNumber": 1,
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniUiCard",
+    "VlocityRecordSourceKey": "OmniUiCard/DemoFlexCard"
+}
