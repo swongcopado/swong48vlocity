@@ -11,7 +11,7 @@ public class ContactOperationsTest {
         // Contact savedContact = [SELECT Description FROM Contact WHERE Id = :con.Id];
         System.assertEquals('Default Description', con.Description);
     }
-    
+    /* Commented to reduce Apex Test Coverage
     @isTest static void testContactHasDefaultFirstName() {
         Test.startTest();
         Contact con = new Contact(LastName='aLastName');
@@ -19,4 +19,5 @@ public class ContactOperationsTest {
         Test.stopTest();
         System.assertEquals('Default First Name', con.FirstName);
     }
+    */
 }

@@ -155,6 +155,7 @@
     <externalSharingModel>Private</externalSharingModel>
     <fields>
         <fullName>SF_SFI_Demo_Picklist__c</fullName>
+        <description>This Picklist field is used to demonstrate the Environment Variable functionality in Copado</description>
         <externalId>false</externalId>
         <label>SF SFI Demo Picklist</label>
         <required>false</required>
