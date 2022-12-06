@@ -7,18 +7,18 @@
     "IsTestProcedure": false,
     "IsWebCompEnabled": false,
     "Language": "Procedure",
-    "Name": "Team Stub Account Contact",
+    "Name": "Team Stub Get Case Details",
     "OmniProcessElement": [
-        "team_getAccountContactDetails_Element_SetValues.json",
-        "team_getAccountContactDetails_Element_ResponseAction.json"
+        "team_getCaseDetails_Element_SetValues.json",
+        "team_getCaseDetails_Element_ResponseAction.json"
     ],
-    "OmniProcessKey": "team_getAccountContactDetails",
+    "OmniProcessKey": "team_getCaseDetails",
     "OmniProcessType": "Integration Procedure",
-    "PropertySetConfig": "team_getAccountContactDetails_PropertySetConfig.json",
-    "SubType": "getAccountContactDetails",
+    "PropertySetConfig": "team_getCaseDetails_PropertySetConfig.json",
+    "SubType": "getCaseDetails",
     "Type": "team",
     "VlocityDataPackType": "SObject",
     "VlocityRecordSObjectType": "OmniProcess",
-    "VlocityRecordSourceKey": "OmniProcess/team/getAccountContactDetails/Procedure",
-    "WebComponentKey": "5ef11e61-f9d9-46df-1304-8131d878c920"
+    "VlocityRecordSourceKey": "OmniProcess/team/getCaseDetails/Procedure",
+    "WebComponentKey": "049fb9c7-0b0c-435d-053f-2402d6bb00f6"
 }

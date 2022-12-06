@@ -1,0 +1,34 @@
+{
+    "AuthorName": "Copado",
+    "ClonedFromOmniUiCardKey": "",
+    "DataSourceConfig": {
+        "contextVariables": [
+        ],
+        "orderBy": {
+            "isReverse": false,
+            "name": ""
+        },
+        "type": "IntegrationProcedures",
+        "value": {
+            "dsDelay": "",
+            "ipMethod": "team_getAccountContactDetails",
+            "resultVar": "[\"Account\"]",
+            "vlocityAsync": false
+        }
+    },
+    "Description": "",
+    "IsTrackingEnabled": false,
+    "Name": "demoSampleAccount",
+    "Namespace": "",
+    "OmniUiCardKey": "demoSampleAccount/Copado/1.0",
+    "OmniUiCardType": "Parent",
+    "OverrideKey": "",
+    "PropertySetConfig": "demoSampleAccount.json",
+    "SampleDataSourceResponse": "{\"Contact\":[{\"ContactEmail\":\"pholder@placeholderinc.com\",\"ContactFirstName\":\"Place\",\"ContactId\":\"0033i0000029WovZZZ\",\"ContactLastName\":\"Holder\",\"ContactPhone\":\"(123) 123-5678\",\"ContactTitle\":\"CEO\"},{\"ContactEmail\":\"aholder@placeholderinc.com\",\"ContactFirstName\":\"Ana\",\"ContactId\":\"0033i0000029Wp0ZZZ\",\"ContactLastName\":\"Holder\",\"ContactPhone\":\"(123) 123-6789\",\"ContactTitle\":\"SVP\"}],\"Account\":{\"AccountId\":\"0013i0000030LDyZZZ\",\"AccountName\":\"PlaceHolder Inc\",\"AccountPhone\":\"(123) 123-4567\",\"AccountPostalCode\":12345,\"AccountPriContact\":\"Ana Holder\",\"AccountWebsite\":\"www.placeholderinc.com\"}}",
+    "StylingConfiguration": "",
+    "UniqueName": "",
+    "VersionNumber": 1,
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniUiCard",
+    "VlocityRecordSourceKey": "OmniUiCard/demoSampleAccount"
+}
